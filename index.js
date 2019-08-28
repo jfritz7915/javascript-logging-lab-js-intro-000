@@ -1,1 +1,1 @@
-cosole.error ("WHAT")
+console.error ("WHAT")
